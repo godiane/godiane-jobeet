@@ -1,0 +1,1 @@
+This is my step-by-step implementation of Jobeet Tutorial for Symfony 1.4. In the future, I might add new features.
